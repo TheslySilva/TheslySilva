@@ -6,8 +6,6 @@
 
 ![Thesly Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TheslySilva&show_icons=true&theme=radical)
 
-
-
 ### Tecnologias que eu uso no meu dia :
 
 <div style="display: inline_block"><br>
@@ -26,4 +24,4 @@
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=Java"" />
 	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</div>
+</div><br>
