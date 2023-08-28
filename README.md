@@ -1,4 +1,6 @@
 ### Ola! Me chamo Thesly Silva
+<br>
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesley.silva?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheslySilva)
 
@@ -15,6 +17,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheslySilva&layout=compact)<br>
 
 ## Algumas das Tecnologias que venho estudando :
+<br>
 
 <div style="display:inline_block">
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt=Java"" />
