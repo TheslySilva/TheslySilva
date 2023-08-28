@@ -6,7 +6,7 @@
 
 ![Thesly Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TheslySilva&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia :
+### Tecnologias que eu uso no meu dia :
 
 <div style="display: inline_block"><br>
 <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -16,7 +16,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheslySilva&layout=compact)<br>
 
-## Algumas das Tecnologias que venho estudando :
+### Algumas das Tecnologias que venho estudando :
 <br>
 
 <div style="display:inline_block">
