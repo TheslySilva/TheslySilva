@@ -30,3 +30,7 @@
 ### Alguns dos meus Projetos :
 
 > [Spotify Manoel Gomes](https://manoel-verso.vercel.app)
+
+### Caso possa ajuda minha vaquinha:
+
+(https://www.vakinha.com.br/4030452)
