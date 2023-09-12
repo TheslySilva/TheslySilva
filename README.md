@@ -33,6 +33,3 @@
 
 <br>
 
->### Caso possa ajuda minha vaquinha:
-
-> [Vakinha](https://www.vakinha.com.br/4030452)
