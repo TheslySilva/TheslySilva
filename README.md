@@ -9,8 +9,6 @@
 
 ### Tecnologias organizada por Grau de Conhecimento :
 
-<br />
-
 #### Basico :
 
 <div style="display: inline_block"><br>
