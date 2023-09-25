@@ -7,7 +7,7 @@
 
 ![Thesly Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TheslySilva&show_icons=true&theme=radical)
 
-### Tecnologias organizada por Grau de Conhecimento :
+### Tecnologias organizadas por Grau de Conhecimento :
 
 #### Basico :
 
