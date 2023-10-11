@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola+Mundo!+Me+chamo+Thesly+Silva!;Sou+estudante+em+programação!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Ola+Mundo!+Me+chamo+Thesly+Silva!;Estou+estudando+Java!)](https://git.io/typing-svg)
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesley.silva?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
