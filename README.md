@@ -26,24 +26,14 @@
 	<img align="center" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
-#### Avançado:
+<br/>
 
 ### Estatisticas:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheslySilva&layout=compact)<br>
-
-### Algumas das Tecnologias que venho estudando :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheslySilva&layout=compact)
 <br>
 
-<div style="display:inline_block">
-	<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-	<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-
-</div><br>
-
-### Alguns dos meus Projetos :
-
+### Site feito para se distrair
 > [Spotify Manoel Gomes](https://manoel-verso.vercel.app)
 
 <br>
