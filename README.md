@@ -5,7 +5,15 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=[5589981175952])
 
 
-### Tecnologias que ultilizo:
+
+# Sobre Mim:
+
+<br/>
+
+### 👋 Olá! Me chamo Thesly , e quero compartilhar um pouco da minha jornada. Desde que desbloqueei o poder das linguagens de programação usando apenas meu celular, percebi que a tecnologia pode estar ao alcance de todos, não importa onde estejamos. 
+<br/>
+
+## Tecnologias que ultilizo:
 
 <br/>
 
