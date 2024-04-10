@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.print("Ola+Visitante");Estou+me+aventurando+nesse+mundo+magico!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=System.out.print("Ola+Visitante"))](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thesley.silva?utm_source=qr&igshid=NGExMmI2YTkyZg%3D%3D)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TheslySilva)
@@ -10,12 +10,12 @@
 <br/>
 
 ![Linguagens](https://skillicons.dev/icons?i=js,html,css,cs,git)
-![Linguagens](https://skillicons.dev/icons?i=java,express,md)
+![Linguagens](https://skillicons.dev/icons?i=java,express,md,mysql,tailwind)
 
 <br/>
 
 ![Thesly Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TheslySilva&show_icons=true&theme=radical)
 
-### Site para passar o tempo:
+### Alguns Projetos:
 
-> [Spotify Manoel Gomes](https://manoel-verso.vercel.app)
+> [Projeto feito quando estava iniciando](https://manoel-verso.vercel.app)
