@@ -32,3 +32,5 @@
 ### Alguns Projetos:
 
 > [Projeto feito quando estava iniciando](https://manoel-verso.vercel.app)
+
+> [Projeto -  API de Piadas](https://express-js-2eam.onrender.com/piadas)
