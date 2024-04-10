@@ -10,7 +10,13 @@
 <br/>
 
 ![Linguagens](https://skillicons.dev/icons?i=js,html,css,cs,git)
-![Linguagens](https://skillicons.dev/icons?i=java,express,md,mysql,tailwind)
+![Linguagens](https://skillicons.dev/icons?i=ts)
+
+![Linguagens](https://skillicons.dev/icons?i=express,md,mysql,tailwind,postgres)
+![Linguagens](https://skillicons.dev/icons?i=vercel)
+
+![Linguagens](https://skillicons.dev/icons?i=nodejs,java)
+
 
 <br/>
 
