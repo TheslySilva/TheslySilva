@@ -21,14 +21,24 @@
 ![Linguagens](https://skillicons.dev/icons?i=express,md,mysql,tailwind,postgres)
 ![Linguagens](https://skillicons.dev/icons?i=vercel,java)
 
+<br/>
 
 
 <br/>
 
 ![Thesly Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=TheslySilva&show_icons=true&theme=radical)
 
+<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Alguns Projetos:
 
 > [Projeto feito quando estava iniciando](https://manoel-verso.vercel.app)
 
 > [Projeto -  API de Piadas](https://express-js-2eam.onrender.com/piadas)
+
+<br/>
+
+![Quantidade De
+Visitantes](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{TheslySilva}1212%2Fhit-counter)
